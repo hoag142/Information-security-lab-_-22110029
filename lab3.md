@@ -132,9 +132,12 @@ iptables -A FORWARD -s 172.16.10.0/24 -d 172.16.10.0/24 -p icmp -j ACCEPT
 ![image](https://github.com/user-attachments/assets/aef2fd0f-c467-4384-9641-e9c9e11ce996)
 
 
-** Ping **
+** Curl **
+
 ![image](https://github.com/user-attachments/assets/5a39199f-1b1d-472a-9332-881b4f2e36c6)
+
 ** Telnet **
+
 ![image](https://github.com/user-attachments/assets/1f0541b8-ddac-4b09-ae52-62db9e775f41)
 
 
